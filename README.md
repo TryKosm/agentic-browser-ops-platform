@@ -2,11 +2,9 @@
 
 Policy checks, human approvals, and audit trails for AI workflows.
 
-![CI](https://github.com/TryKosm/ai-governance-gateway/actions/workflows/ci.yml/badge.svg)
-
 An API-key-gated governance layer for AI workflow execution: policy checks, approval routing, and replayable audit trails.
 
-[![CI](https://github.com/TryKosm/ai-governance-gateway/actions/workflows/ci.yml/badge.svg)](https://github.com/TryKosm/ai-governance-gateway/actions/workflows/ci.yml)
+[![CI](https://github.com/NotPBShaw/ai-governance-gateway/actions/workflows/ci.yml/badge.svg)](https://github.com/NotPBShaw/ai-governance-gateway/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Why this exists
@@ -51,9 +49,9 @@ Also see [`examples/client_example.py`](examples/client_example.py) and [`docs/t
 
 ## Roadmap
 
-- [ ] Persist approvals + audit events to Postgres ([#1](https://github.com/TryKosm/ai-governance-gateway/issues/1))
-- [ ] Add signed `approval_required` webhooks ([#2](https://github.com/TryKosm/ai-governance-gateway/issues/2))
-- [ ] Publish Postman collection + OpenAPI export ([#3](https://github.com/TryKosm/ai-governance-gateway/issues/3))
+- [ ] Persist approvals + audit events to Postgres ([#1](https://github.com/NotPBShaw/ai-governance-gateway/issues/1))
+- [ ] Add signed `approval_required` webhooks ([#2](https://github.com/NotPBShaw/ai-governance-gateway/issues/2))
+- [ ] Publish Postman collection + OpenAPI export ([#3](https://github.com/NotPBShaw/ai-governance-gateway/issues/3))
 
 ## Development
 
